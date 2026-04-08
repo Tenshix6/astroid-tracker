@@ -23,4 +23,4 @@ jobs:
           pip install discord-webhook
         
       - name: run asteroid tracker
-        run: python asteroid_tracker.py
+        run: python astroid_tracker.py
